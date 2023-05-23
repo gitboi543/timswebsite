@@ -1,0 +1,18 @@
+h1 {
+  color: red;
+  background-color: navy;
+  text-align: center;
+  border: 5px outset red;
+}
+
+.redclown {
+  border: 5px outset red;
+  background-color: blue;
+  text-align: center;
+}
+#menu ul {
+  list-style: none;
+}
+#menu li {
+  display: inline;
+}
